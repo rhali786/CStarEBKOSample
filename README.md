@@ -2,7 +2,7 @@ Welcome to the AWS CodeStar sample web service
 ============================================== 
 
 This sample code helps get you started with a simple Express web service
-deployed by AWS Elastic Beanstalk.
+deployed by AWS Elastic Beanstalk. 
 
 What's Here
 -----------
