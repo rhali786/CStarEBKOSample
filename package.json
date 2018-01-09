@@ -3,9 +3,7 @@
     "description": "Hello World ExpressJS WebService",
     "version": "0.0.1",
     "private": true,
-    "dependencies": {
-        "express": "latest"
-    },
+    "dependencies": {        "express": "latest"    },
     "scripts":{
       "start": "node server.js"
     }
