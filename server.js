@@ -9,9 +9,9 @@ app.get('/', function(req, res) {
   });
 });
 
-app.post('/', function(req, res) {
+app.get('/zain', function(req, res) {
   res.send({
-    "Output": "Hello World!"
+    "Output": "Hello Zain!"
   });
 });
 
